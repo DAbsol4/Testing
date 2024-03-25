@@ -2,7 +2,7 @@
  
 int main () 
 {
-    std::cout << "Hola, mundo, como staxx";
+    std::cout << "Hola, DAbsol4.";
     return 0;
 
  //comentario: nigga 
